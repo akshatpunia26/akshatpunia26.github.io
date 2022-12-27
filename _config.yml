@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &punspanini
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Akshat Punia"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Student"
   location         : "Gurugram"
   employer         :
