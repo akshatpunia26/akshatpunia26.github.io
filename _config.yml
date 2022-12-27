@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Akshat Punia"
   avatar           : "profile.png"
-  bio              : "Student and Finance Guy"
+  bio              : "Student"
   location         : "Gurugram"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://google.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://google.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "akshatpunia"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
